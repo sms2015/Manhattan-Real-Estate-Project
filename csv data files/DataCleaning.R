@@ -1,7 +1,5 @@
 #### set directory ####
 
-setwd("C:/Users/117284/Documents/IS 608 final project/All Final Project Files/csv data files")
-
 require(plyr)
 
 #### exploratory analysis ####
