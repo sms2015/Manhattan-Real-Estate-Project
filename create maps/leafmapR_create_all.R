@@ -1,7 +1,6 @@
 #create html heat maps with leafletR
 
-#setwd("D:/CUNY Files/IS 608/App-3")
-setwd("C:/Users/117284/Documents/IS 608 final project/All Final Project Files/create maps")
+setwd("D:/CUNY Files/IS 608/All Final Project Files/create maps")
 
 #the following libraries need to be added to shiny app for this source file to run
 library(RColorBrewer)
