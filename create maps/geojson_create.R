@@ -1,7 +1,6 @@
 #helpsource: http://zevross.com/blog/2014/04/11/using-r-to-quickly-create-an-interactive-online-map-using-the-leafletr-package/
 
-#setwd("D:/CUNY Files/IS 608/final project/All Final Project Files/create maps")
-setwd("C:/Users/117284/Documents/IS 608 final project/All Final Project Files/create maps")
+setwd("D:/CUNY Files/IS 608/final project/All Final Project Files/create maps")
 
 library(leafletR)
 library(rgdal) #for reading/writing geo files
